@@ -1,0 +1,12 @@
+store.joseph.Taxable
+store.Taxable
+store.joseph.JosephStore
+store.joseph.Food
+store.Toy
+store.Food
+store.joseph.Book
+store.joseph.Toy
+store.JosephStore
+store.joseph.Goods
+store.Book
+store.Goods
